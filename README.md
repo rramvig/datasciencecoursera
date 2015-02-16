@@ -1,1 +1,1 @@
-# dataScientist-repo
+# datasciencecoursera
